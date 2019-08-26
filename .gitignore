@@ -16,3 +16,11 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+.idea/
+data/monet2photo/
+data/synthetic2real/
+implementations/cyclegan/images/
+implementations/cyclegan/test_folder/
+implementations/cyclegan/saved_models/
+implementations/cyclegan/__pycache__/
