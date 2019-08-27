@@ -24,6 +24,7 @@ Generera bilder, skapa dataset och träna en klassificerare
 Domänöversättning
 1.	Kör resize.py
 2.	Flytta över bilderna till cyclegan-projektet i data-mappen och ha följande format.
+
 ![alt text](data_struktur.png)
 3.	Öpnna cyclegan-projektet
 4.	Kör igång implementations/cyclegan/cyclegan.py
