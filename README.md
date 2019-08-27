@@ -26,6 +26,7 @@ Domänöversättning
 2.	Flytta över bilderna till cyclegan-projektet i data-mappen och ha följande format.
 
 ![alt text](data_struktur.png)
+
 3.	Öpnna cyclegan-projektet
 4.	Kör igång implementations/cyclegan/cyclegan.py
 5.	Kör igång filter.py, ändra G_AB.load_state_dict till den färdigtränade modellen
